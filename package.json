@@ -1,0 +1,31 @@
+{
+  "name": "nodejschat",
+  "version": "1.0.0",
+  "description": "Node basic chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboteros/NodeJsChat.git"
+  },
+  "keywords": [
+    "chat",
+    "learn",
+    "basic",
+    "next-u",
+    "next university"
+  ],
+  "author": "Johnatan Botero",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "http": "0.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jboteros/NodeJsChat/issues"
+  },
+  "homepage": "https://github.com/jboteros/NodeJsChat#readme"
+}
